@@ -1,0 +1,461 @@
+[0509/175054:INFO:(0)] WebCore is now online.
+[0509/175054:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/175106:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/175205:INFO:(0)] WebCore is now online.
+[0509/175205:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/175217:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/175308:INFO:(0)] WebCore is now online.
+[0509/175308:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/175330:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/175358:INFO:(0)] WebCore is now online.
+[0509/175358:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/175401:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 2gis.kz:443 failed; NSS error code -12190, net_error -107
+[0509/175401:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 2gis.kz:443 failed; NSS error code -12286, net_error -113
+[0509/175417:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/175508:INFO:(0)] WebCore is now online.
+[0509/175508:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/175511:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 2gis.kz:443 failed; NSS error code -12190, net_error -107
+[0509/175511:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 2gis.kz:443 failed; NSS error code -12286, net_error -113
+[0509/175519:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/175556:INFO:(0)] WebCore is now online.
+[0509/175556:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/175704:INFO:(0)] WebCore is now online.
+[0509/175704:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/175841:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0509/175843:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/175900:INFO:(0)] WebCore is now online.
+[0509/175900:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/180315:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/180408:INFO:(0)] WebCore is now online.
+[0509/180408:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/181329:INFO:(0)] WebCore is now online.
+[0509/181329:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/181331:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 2gis.kz:443 failed; NSS error code -12190, net_error -107
+[0509/181331:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 2gis.kz:443 failed; NSS error code -12286, net_error -113
+[0509/181340:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/181402:INFO:(0)] WebCore is now online.
+[0509/181402:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/181418:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/181439:INFO:(0)] WebCore is now online.
+[0509/181439:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/181442:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 2gis.kz:443 failed; NSS error code -12190, net_error -107
+[0509/181442:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 2gis.kz:443 failed; NSS error code -12286, net_error -113
+[0509/181448:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/181526:INFO:(0)] WebCore is now online.
+[0509/181526:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/181635:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/181706:INFO:(0)] WebCore is now online.
+[0509/181706:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/181906:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/181932:INFO:(0)] WebCore is now online.
+[0509/181932:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/182307:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/183116:INFO:(0)] WebCore is now online.
+[0509/183116:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/183118:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 2gis.kz:443 failed; NSS error code -12190, net_error -107
+[0509/183118:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server 2gis.kz:443 failed; NSS error code -12286, net_error -113
+[0509/183304:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0509/183306:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/183803:INFO:(0)] WebCore is now online.
+[0509/183803:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/183857:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/184206:INFO:(0)] WebCore is now online.
+[0509/184206:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/184227:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/184337:INFO:(0)] WebCore is now online.
+[0509/184337:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/184353:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/184438:INFO:(0)] WebCore is now online.
+[0509/184438:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/184448:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/184623:INFO:(0)] WebCore is now online.
+[0509/184623:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/184715:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/184801:INFO:(0)] WebCore is now online.
+[0509/184801:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/184850:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/185231:INFO:(0)] WebCore is now online.
+[0509/185231:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/185236:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/185306:INFO:(0)] WebCore is now online.
+[0509/185306:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/185317:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/185341:INFO:(0)] WebCore is now online.
+[0509/185341:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/185353:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/185422:INFO:(0)] WebCore is now online.
+[0509/185422:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/185431:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/185500:INFO:(0)] WebCore is now online.
+[0509/185500:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/185600:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/185636:INFO:(0)] WebCore is now online.
+[0509/185636:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/185808:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/185853:INFO:(0)] WebCore is now online.
+[0509/185853:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/190609:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/190718:INFO:(0)] WebCore is now online.
+[0509/190718:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/190735:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/190927:INFO:(0)] WebCore is now online.
+[0509/190927:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/190929:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/190956:INFO:(0)] WebCore is now online.
+[0509/190956:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/190959:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0509/190959:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0509/191834:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/192043:INFO:(0)] WebCore is now online.
+[0509/192043:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/192046:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0509/192046:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0509/192136:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server www.mapbox.com:443 failed; NSS error code -12190, net_error -107
+[0509/192148:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0509/192154:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0509/192205:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/192320:INFO:(0)] WebCore is now online.
+[0509/192320:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/192323:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0509/192323:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0509/192332:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0509/192443:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0509/192517:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/195935:INFO:(0)] WebCore is now online.
+[0509/195935:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/195938:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0509/195938:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0509/200007:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/222857:INFO:(0)] WebCore is now online.
+[0509/222857:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/222903:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0509/222903:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0509/223129:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0509/230708:INFO:(0)] WebCore is now online.
+[0509/230708:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/230712:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0509/230713:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0509/231213:INFO:(0)] WebCore is now online.
+[0509/231213:INFO:(0)] Running Awesomium 1.7.5.0
+[0509/231218:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0509/231218:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0509/231222:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0509/231222:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0510/005140:INFO:(0)] WebCore is now online.
+[0510/005140:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/005143:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/005143:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/005341:INFO:(0)] WebCore is now online.
+[0510/005341:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/005923:INFO:(0)] WebCore is now online.
+[0510/005923:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/005926:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/005927:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/010500:INFO:(0)] WebCore is now online.
+[0510/010500:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/011237:INFO:(0)] WebCore is now online.
+[0510/011237:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/011240:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/011240:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/011614:INFO:(0)] WebCore is now online.
+[0510/011614:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/011618:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/011618:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/013345:INFO:(0)] WebCore is now online.
+[0510/013345:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/013348:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/013348:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/013417:INFO:(0)] WebCore is now online.
+[0510/013417:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/013420:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/013420:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/014033:INFO:(0)] WebCore is now online.
+[0510/014033:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/014036:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/014036:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/014345:INFO:(0)] WebCore is now online.
+[0510/014345:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/014729:INFO:(0)] WebCore is now online.
+[0510/014729:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/014733:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/014733:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/021604:INFO:(0)] WebCore is now online.
+[0510/021604:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/021608:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/021608:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/021657:INFO:(0)] WebCore is now online.
+[0510/021657:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/021700:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/021700:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/024749:INFO:(0)] WebCore is now online.
+[0510/024749:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/024752:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/024752:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/173823:INFO:(0)] WebCore is now online.
+[0510/173823:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/173827:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/173827:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/173919:INFO:(0)] WebCore is now online.
+[0510/173919:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/174113:INFO:(0)] WebCore is now online.
+[0510/174113:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/174117:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/174117:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/181557:INFO:(0)] WebCore is now online.
+[0510/181557:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/181601:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/181601:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/181721:INFO:(0)] WebCore is now online.
+[0510/181721:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/181725:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/181725:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/181727:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0510/185025:INFO:(0)] WebCore is now online.
+[0510/185025:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/185029:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/185029:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/194256:INFO:(0)] WebCore is now online.
+[0510/194256:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/194259:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/194259:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/194958:INFO:(0)] WebCore is now online.
+[0510/194958:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/195002:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/195002:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/195005:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0510/200154:INFO:(0)] WebCore is now online.
+[0510/200154:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/200827:INFO:(0)] WebCore is now online.
+[0510/200827:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/200830:ERROR:ipc_channel_win.cc(360)] pipe error: 232
+[0510/205336:INFO:(0)] WebCore is now online.
+[0510/205336:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/210021:INFO:(0)] WebCore is now online.
+[0510/210021:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/215918:INFO:(0)] WebCore is now online.
+[0510/215918:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/215923:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0510/215923:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0510/220635:INFO:(0)] WebCore is now online.
+[0510/220635:INFO:(0)] Running Awesomium 1.7.5.0
+[0510/221353:INFO:(0)] WebCore is now online.
+[0510/221353:INFO:(0)] Running Awesomium 1.7.5.0
+[0511/150858:INFO:(0)] WebCore is now online.
+[0511/150858:INFO:(0)] Running Awesomium 1.7.5.0
+[0511/150905:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0511/150905:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0511/150922:INFO:(0)] WebCore is now online.
+[0511/150922:INFO:(0)] Running Awesomium 1.7.5.0
+[0511/150926:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0511/150926:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0511/174428:INFO:(0)] WebCore is now online.
+[0511/174428:INFO:(0)] Running Awesomium 1.7.5.0
+[0511/210205:INFO:(0)] WebCore is now online.
+[0511/210205:INFO:(0)] Running Awesomium 1.7.5.0
+[0511/210208:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0511/210208:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0511/211500:INFO:(0)] WebCore is now online.
+[0511/211500:INFO:(0)] Running Awesomium 1.7.5.0
+[0511/211503:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0511/211503:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0512/035041:INFO:(0)] WebCore is now online.
+[0512/035041:INFO:(0)] Running Awesomium 1.7.5.0
+[0512/035044:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0512/035044:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0512/035052:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   в System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   в System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0512/035052:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[0512/035054:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[0512/042252:INFO:(0)] WebCore is now online.
+[0512/042252:INFO:(0)] Running Awesomium 1.7.5.0
+[0512/042256:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0512/042256:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0512/042325:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   в System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   в System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0512/042325:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[0512/042623:INFO:(0)] WebCore is now online.
+[0512/042623:INFO:(0)] Running Awesomium 1.7.5.0
+[0512/042627:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0512/042627:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0512/042952:INFO:(0)] WebCore is now online.
+[0512/042952:INFO:(0)] Running Awesomium 1.7.5.0
+[0512/042956:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0512/042956:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0512/043008:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   в System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   в System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0512/192740:INFO:(0)] WebCore is now online.
+[0512/192740:INFO:(0)] Running Awesomium 1.7.5.0
+[0512/192745:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0512/192745:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0512/192847:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   в System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   в System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0512/192847:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[0512/193504:INFO:(0)] WebCore is now online.
+[0512/193504:INFO:(0)] Running Awesomium 1.7.5.0
+[0512/193507:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0512/193507:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0512/193632:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   в System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   в System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0512/193632:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[0512/194230:INFO:(0)] WebCore is now online.
+[0512/194230:INFO:(0)] Running Awesomium 1.7.5.0
+[0512/194234:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0512/194234:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0512/194438:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.Control.WaitForWaitHandle(WaitHandle waitHandle)
+   в System.Windows.Forms.Control.MarshaledInvoke(Control caller, Delegate method, Object[] args, Boolean synchronous)
+   в System.Windows.Forms.Control.Invoke(Delegate method, Object[] args)
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0512/194438:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+
+[0512/195042:INFO:(0)] WebCore is now online.
+[0512/195042:INFO:(0)] Running Awesomium 1.7.5.0
+[0512/195046:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12190, net_error -107
+[0512/195046:ERROR:ssl_client_socket_nss.cc(1529)] handshake with server join.greenpeace.ru:443 failed; NSS error code -12286, net_error -113
+[0512/195245:WARNING:Awesomium.NET(0)] System.ComponentModel.InvalidAsynchronousStateException: При вызове данного метода произошла ошибка.  Поток-получатель больше не существует.
+   в System.Windows.Forms.WindowsFormsSynchronizationContext.Send(SendOrPostCallback d, Object state)
+   в Awesomium.Core.WebCore.SwoYrDtsHvuLJUY08ID(Object , Object , Object )
+   в Awesomium.Core.WebCore.wQrBKtHAGh()
+[0512/195246:WARNING:Awesomium.NET(0)] Awesomium.Core.AweInvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+
+

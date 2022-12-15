@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label6.Text" xml:space="preserve">
+    <value>Почему утилизировать мусор выгодно? 
+
+1) Свалки и мусорные полигоны занимают огромное количество
+полезных территорий. Например: общая сумма площади свалок России 
+составляет 40000 кв. км что сопоставимо с площадью Швейцарии. На этой
+ территории можно было построить 5000 мусороперерабатывающих заводов
+ 
+2)Если перерабатывать пластиковые и жестяные бутылки, то например из 
+25 пластиковых бутылок можно сделать флисовую кофту; 670 жестяных банок
+равна велосипеду. 
+
+3)Переработка более 90% отходов привела бы не только к экономии земных 
+ресурсов и денежных финансов, но и к замедлению глобального потепления. 
+
+4)Сдавая на переработку 1 стеклянную бутылку то можно получить энергию на 
+5 часовработы телевизора. </value>
+  </data>
+  <metadata name="историяBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>158, 17</value>
+  </metadata>
+  <metadata name="baseDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="историяBindingSource1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>575, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAABGdBTUEAALGPC/xhBQAAADlQTFRF////
+        AAAAhoaG3NzclJSUMDAw5eXl7Ozs8PDwICAgHR0d7e3tGxsbJCQkGRkZioqKRkZGEhISOzs7sHPSOQAA
+        Ar9JREFUeF7t3OF22yAMhuEsyxLHTuq293+xW2tYSosc2xghOO/zP7W/A0Ki2XoAAAAAAAAAAABo2en+
+        Z4v7yX3evuOvbY7u8/aRUEJCO0goIaEdJJSQ0A4SSkhoBwklJLSDhBIS2kFCCQntIKGEhHaQUEJCO0go
+        IaEdJJSQ0A4SSkhoBwklJLSDhBIS2kFCCQntIKGEhHaQUEJCO0goqSfh6N54rdF9vqjT8bnx1b3xWq+j
+        +wlzcv+njPObe5tS3s7uTbK59O5RZbxc3Htk1F3dw0roO/cWWXXlVvGmEvDfRr27B2q7KmzRyVBmFW9q
+        AQvVok4NeoP+RtXbopOL9ir2ygHVN2o/uOcq6m7u4RpeVGvQU2wa2jXoXbRWUWNUi1OqRd02EVKJWOKQ
+        eVCoxVI16A25V1G/D36X+aahdZuYk3WAK71FJxlv/Zq3iTnZTtSyp+hXmQa4MqNaXJamYaMGvQy3/nKj
+        WtzutVhyVIvbOaKdQ+Zh11osP8nE7DjAWVzBD7sNcBZGtbidBjhbbSK0ywBnrU2EdjhR7bWJUHItWhrV
+        4hKbhuUa9JIGOCvXpXkJtWi9Br3NTeNqtNH/tPFrG5ujWtymjWp1VIvbcOu33yZCq2uxhjYRWvm1je1R
+        LW5VLdbSJkIrIt6qOmQeFg9w9dWgt/DWX8eoFrdoo9q90S+xoGnUu0UnTwe4mrfo5MlGrWtUi5sd4Gob
+        1eJmmkbtNegN0irWOKrFCbVY56gWF43YwiHzEKnFVmrQ+zHAtbWCH779qrjuUS0uGOBa26KTL1/btNMm
+        Qv9P1JbaRMjVYhujWtxn02izBr2hb7YGve694S0KAAAAAAAM+V2ee5NMzp+/Diwr7x+KIqEGEqYhoQYS
+        piGhBhKmIaEGEqYhoQYSpiGhhrwJu/FU2sg/5gAAAAAAAAAAAAAAAEYdDn8BFnA2dbiY6k4AAAAASUVO
+        RK5CYII=
+</value>
+  </data>
+  <metadata name="историяTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>370, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>25</value>
+  </metadata>
+</root>
